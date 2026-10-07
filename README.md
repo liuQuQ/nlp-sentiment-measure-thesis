@@ -4,6 +4,8 @@
 >
 > 毕业论文预演稿（NLP 测度构建方法应用）
 > 专业：大数据管理与应用 ｜ 全程 Python 可复现
+>
+> 🔗 **仓库地址**：https://github.com/liuQuQ/nlp-sentiment-measure-thesis
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -195,7 +197,7 @@ $N$ 为去停用词后的总词数。
   author = {大数据管理与应用专业},
   year   = {2026},
   note   = {基于 NLP 测度构建五步法的实证研究},
-  url    = {https://github.com/USERNAME/nlp-sentiment-measure-thesis}
+  url    = {https://github.com/liuQuQ/nlp-sentiment-measure-thesis}
 }
 ```
 
